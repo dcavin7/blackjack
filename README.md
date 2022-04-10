@@ -1,2 +1,2 @@
 # blackjack
-Blackjack terminal game (Python)
+Simple blackjack terminal game, written in Python.
